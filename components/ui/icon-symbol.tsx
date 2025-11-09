@@ -18,6 +18,11 @@ const MAPPING = {
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
+  'camera.fill': 'camera-alt',
+  'square.grid.2x2.fill': 'apps',
+  'list.bullet': 'list',
+  'scanner.fill': 'qr-code-scanner', // Barcode scanner icon
+  'board.fill': 'dashboard', // Kanban board icon
 } as IconMapping;
 
 /**
